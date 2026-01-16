@@ -1,0 +1,4 @@
+mida :ok
+Mis on sinu nimi?:Rasmus Küttim
+Mis on Tallinna pealinn?:Tallinn
+Mis on Eesti pealinn?:Tallinn
